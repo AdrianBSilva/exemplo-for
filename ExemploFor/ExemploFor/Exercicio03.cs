@@ -9,14 +9,17 @@ namespace ExemploFor
     {
         public Exercicio03()
         {
-            for (int i = 1; i <= 1; i++)
+            int tamanho = 15;
+            for (int i = 1; i <= tamanho; i++)
             {
-                for (int numero = 1; numero <= 10; numero++)
+                
+                for (int numero = 1; numero <= tamanho; numero++)
                 {
 
-                    Console.WriteLine("* * * * * * * * * *");
+                    Console.Write("* ");
 
                 }
+                Console.WriteLine();
             }
         }
     }
