@@ -12,9 +12,11 @@ namespace ExemploFor
         {
             //new Exemplo01();
             //new Exemplo02();
+            new Exemplo03();
             //new Exercicio01();
             //new Exercicio02();
-            new Exercicio03();
+            //new Exercicio03();
+            //new Exercicio04();
         }
     }
 }
